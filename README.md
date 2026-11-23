@@ -248,23 +248,39 @@ graph LR
 All screenshots are redacted to remove client identity, personal data and credentials.
 
 <p align="center">
-  <img src="PASTE-LINK-FOR-RECON-SCREENSHOT.png?raw=true" alt="Reconnaissance: robots.txt disclosure" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/ene%203.png?raw=true" alt="Encryption analysis output" width="80%">
 </p>
 
 <p align="center">
-  <img src="PASTE-LINK-FOR-DIRECTORY-LISTING.png?raw=true" alt="Directory listing on exposed paths" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/db.png?raw=true" alt="Exposed database backup (redacted)" width="80%">
 </p>
 
 <p align="center">
-  <img src="PASTE-LINK-FOR-AUTH-BYPASS.png?raw=true" alt="Authentication bypass response (redacted)" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/decryption%20.png?raw=true" alt="Decryption of recovered document (redacted)" width="80%">
 </p>
 
 <p align="center">
-  <img src="PASTE-LINK-FOR-ENCRYPTION-ANALYSIS.png?raw=true" alt="Encryption analysis output" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/ene%203.png?raw=true" alt="Encryption analysis output" width="80%">
 </p>
 
 <p align="center">
-  <img src="PASTE-LINK-FOR-METADATA.png?raw=true" alt="Metadata analysis (redacted)" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/metadata%202.png?raw=true" alt="Metadata analysis, second document (redacted)" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/metadata.png?raw=true" alt="Metadata analysis (redacted)" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/password%201%2C2.png?raw=true" alt="Recovered passwords (redacted)" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/password.png?raw=true" alt="Password recovery result (redacted)" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/password%202.png?raw=true" alt="Password recovery result, second document (redacted)" width="80%">
 </p>
 
 ## Project Report
