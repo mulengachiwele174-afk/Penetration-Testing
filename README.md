@@ -296,8 +296,7 @@ All screenshots are redacted to remove client identity, personal data and creden
 </p>
 
 ## Project Report
-
-**[Download the Week 4 Project Report](./Week4-Pentest-Report.pdf)**
+**[Download the Week 4 Project Report](https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/4e728dcffe7ce09eb04ac4397553f3eb49d60389/Mediroza_Penetration_Test_Report.pdf)**
 
 ## About the Author
 
