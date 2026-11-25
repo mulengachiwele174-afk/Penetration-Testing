@@ -260,10 +260,6 @@ All screenshots are redacted to remove client identity, personal data and creden
 </p>
 
 <p align="center">
-  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/ene%203.png?raw=true" alt="Encryption analysis output" width="80%">
-</p>
-
-<p align="center">
   <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/6519a350e1ce87c89e19e2a31ebfc0717b498f90/image/metadata%202.png?raw=true" alt="Metadata analysis" width="80%">
 </p>
 
@@ -293,6 +289,10 @@ All screenshots are redacted to remove client identity, personal data and creden
 
 <p align="center">
   <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/ebc66bfcac3e980b44063185dd9b0ec404d77709/image/report.png?raw=true" alt="Penetration test report" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Penetration-Testing/blob/34cf7300d858bb046a1f9dc2287789690271b686/image/reports.png?raw=true" alt="Penetration test report summary" width="80%">
 </p>
 
 ## Project Report
